@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/konai32/ryu-developer/refs/heads/main/adm.Lua"))()
+loadstring(game:HttpGet("https://pastefy.app/cYBMDq0g/raw"))()
